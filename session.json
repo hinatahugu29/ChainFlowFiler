@@ -1,0 +1,111 @@
+{
+  "geometry": "01d9d0cb0003000000000000fffffff80000077f00000407000000010000005100000708000004060000000002000000078000000000000000170000077f00000407",
+  "splitter_state": "000000ff0000000100000002000000780000070800ffffffff010000000100",
+  "tabs": [
+    {
+      "title": "Workspace 2",
+      "state": {
+        "lanes": [
+          {
+            "panes": [
+              {
+                "paths": [
+                  "D:\\Affinity"
+                ],
+                "display_mode": 0,
+                "show_hidden": false,
+                "sort_col": 0,
+                "sort_order": 0,
+                "is_compact": false
+              },
+              {
+                "paths": [
+                  "D:\\Affinity\\AffinityData",
+                  "D:\\Affinity\\AffinitySuite3Data"
+                ],
+                "display_mode": 0,
+                "show_hidden": false,
+                "sort_col": 0,
+                "sort_order": 0,
+                "is_compact": true
+              },
+              {
+                "paths": [
+                  "D:\\Affinity\\AffinityData\\AffinityData",
+                  "D:\\Affinity\\AffinitySuite3Data\\AffinitySuite3Data"
+                ],
+                "display_mode": 0,
+                "show_hidden": false,
+                "sort_col": 0,
+                "sort_order": 0,
+                "is_compact": false
+              }
+            ]
+          },
+          {
+            "panes": [
+              {
+                "paths": [
+                  "D:\\"
+                ],
+                "display_mode": 0,
+                "show_hidden": false,
+                "sort_col": 0,
+                "sort_order": 0,
+                "is_compact": false
+              },
+              {
+                "paths": [
+                  "D:\\CODE"
+                ],
+                "display_mode": 0,
+                "show_hidden": false,
+                "sort_col": 0,
+                "sort_order": 0,
+                "is_compact": false
+              },
+              {
+                "paths": [
+                  "D:\\CODE\\Video",
+                  "D:\\CODE\\AutoHotkey",
+                  "D:\\CODE\\Docs"
+                ],
+                "display_mode": 0,
+                "show_hidden": false,
+                "sort_col": 0,
+                "sort_order": 0,
+                "is_compact": false
+              },
+              {
+                "paths": [],
+                "display_mode": 0,
+                "show_hidden": false,
+                "sort_col": 0,
+                "sort_order": 0,
+                "is_compact": false
+              },
+              {
+                "paths": [],
+                "display_mode": 0,
+                "show_hidden": false,
+                "sort_col": 0,
+                "sort_order": 0,
+                "is_compact": false
+              },
+              {
+                "paths": [],
+                "display_mode": 0,
+                "show_hidden": false,
+                "sort_col": 0,
+                "sort_order": 0,
+                "is_compact": false
+              }
+            ]
+          }
+        ],
+        "active_lane_index": 0
+      }
+    }
+  ],
+  "active_tab_index": 0
+}

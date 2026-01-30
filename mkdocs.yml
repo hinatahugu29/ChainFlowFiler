@@ -1,0 +1,58 @@
+site_name: Chain Flow Filer v12.0
+site_description: Documentation for Chain Flow Filer, a keyboard-centric file manager.
+site_author: Antigravity
+
+# テーマ設定 (Material for MkDocs 推奨)
+theme:
+  name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    # ダークモード
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    # ライトモード
+    - scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+
+# リポジトリ情報（必要に応じて変更してください）
+# repo_url: https://github.com/username/ChainFlowFiler
+# repo_name: ChainFlowFiler
+
+# 著作権
+copyright: Copyright &copy; 2026 Chain Flow Filer Project
+
+# ナビゲーション構造
+nav:
+  - 日本語 (Japanese):
+    - はじめに: ja/index.md
+    - インストール: ja/installation.md
+    - クイックスタート: ja/quickstart.md
+    - 機能詳細: ja/features.md
+  - English:
+    - Introduction: en/index.md
+    - Installation: en/installation.md
+    - Quick Start: en/quickstart.md
+    - Features: en/features.md
+
+# Markdown拡張
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences

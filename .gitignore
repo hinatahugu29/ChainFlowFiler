@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+build/
+dist/
+*.exe
+*.manifest
+*.log
+.vscode/
+.idea/
+*.swp
