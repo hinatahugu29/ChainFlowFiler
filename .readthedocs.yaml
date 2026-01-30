@@ -17,6 +17,6 @@ build:
     python: "3.11"
 
 # Python requirements
-# python:
-#   install:
-#     - requirements: docs/requirements.txt
+python:
+  install:
+    - requirements: requirements.txt
