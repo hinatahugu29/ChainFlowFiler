@@ -94,8 +94,9 @@ v12では、さらなるUX向上と機能拡張を目指します。
 
 ## 5. 作業履歴要約 (Development History)
 *   **v12.0 (Alpha)**:
-    *   **Sidebar Refactoring**: `Standard`, `Favorites`, `Drives` の3セクション分割 + Spacerによるレイアウト安定化。Shift+Scrollでのリサイズ対応。
-    *   **Focus UX Improvement**: ホバー時のフォーカス・操作対象認識ロジックを改良し、クリックレスでのショートカット操作を実現。
+    *   **Sidebar Refactoring**: `Standard`, `Favorites`, `Drives` の3セクション分割 + Spacer。
+    *   **Focus UX Improvement**: ホバー時のフォーカス・操作対象認識ロジック改良。
+    *   **Column UX**: 「名前」列を自動伸縮(Stretch)に設定し、ペインリサイズ操作だけで長いファイル名の確認を容易化。
     *   **Build**: PyInstallerによる単一ファイルビルドワークフローの確立。
 *   **v11.0 - v11.1**:
     *   **New Icon**: 透過対応モダンアイコン (`112.png`) の採用。

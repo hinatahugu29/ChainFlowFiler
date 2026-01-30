@@ -13,10 +13,10 @@ v12.0 focuses on layout stability, sidebar enhancements, and smoother focus mana
 ### 1. Refined Navigation Sidebar
 *   **3-Section Layout**: Sidebar is now organized into `STANDARD`, `FAVORITES`, and `DRIVES`.
 *   **Flexible Resizing**: All sections are resizeable. Use `Shift + Scroll` to adjust heights effortlessly.
-*   **Smart Spacing**: Improved layout logic ensures sections stack neatly when collapsed, eliminating awkward gaps.
 
 ### 2. Frictionless Operations
-*   **Hover-to-Act**: You no longer need to click a pane to "activate" it for keyboard shortcuts. Just hover over a list, and `Ctrl+C` / `Ctrl+V` will target the item under your mouse.
+*   **Hover-to-Act**: Just hover over a list, and `Ctrl+C` / `Ctrl+V` will target the item under your mouse.
+*   **Auto-Stretch Columns**: The "Name" column now automatically stretches to fill the available space. Just resize the pane (Ctrl+Scroll) to see long filenames.
 
 ---
 

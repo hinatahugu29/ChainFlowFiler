@@ -77,7 +77,9 @@
                 "is_compact": false
               },
               {
-                "paths": [],
+                "paths": [
+                  "G:\\CODE\\Antigravity\\Py_FILE\\ChainFlowFiler_v12"
+                ],
                 "display_mode": 0,
                 "show_hidden": false,
                 "sort_col": 0,
@@ -85,7 +87,9 @@
                 "is_compact": false
               },
               {
-                "paths": [],
+                "paths": [
+                  "G:\\CODE\\Antigravity\\Py_FILE\\ChainFlowFiler_v12"
+                ],
                 "display_mode": 0,
                 "show_hidden": false,
                 "sort_col": 0,
@@ -93,7 +97,9 @@
                 "is_compact": false
               },
               {
-                "paths": [],
+                "paths": [
+                  "G:\\CODE\\Antigravity\\Py_FILE\\ChainFlowFiler_v12"
+                ],
                 "display_mode": 0,
                 "show_hidden": false,
                 "sort_col": 0,
@@ -103,7 +109,7 @@
             ]
           }
         ],
-        "active_lane_index": 0
+        "active_lane_index": 1
       }
     }
   ],

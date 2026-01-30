@@ -46,5 +46,6 @@ The right-click menu includes convenient features not found in standard Explorer
 Refined operation feel in v12.0.
 
 *   **Click-less**: Just hovering acts as recognition of the operation target.
+*   **Auto-Stretch Name Column**: Resizing the pane width prioritizes stretching the "Name" column. Use `Ctrl+Wheel` to expand the view for long filenames.
 *   **Active View Indicator**: A blue border appears on the left edge of the currently controllable list.
 *   **Shift+W (Unstack)**: When the hierarchy gets too deep, use this to close only the rightmost (or bottom) view to organize.

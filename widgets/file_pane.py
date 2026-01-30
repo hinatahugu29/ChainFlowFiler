@@ -444,9 +444,16 @@ class FilePane(QFrame):
                 view.setIndentation(0)
                 
                 view.hideColumn(1) 
-                view.setColumnWidth(0, 250)
-                view.setColumnWidth(2, 60)
-                view.setColumnWidth(3, 120)
+                
+                # Header Resizing Strategy (v12.0)
+                header = view.header()
+                header.setSectionResizeMode(0, QHeaderView.Stretch)       # Name: 余白を埋める
+                header.setSectionResizeMode(2, QHeaderView.Interactive)   # Size: ユーザー可変 (初期値固定)
+                header.setSectionResizeMode(3, QHeaderView.Interactive)   # Date: ユーザー可変 (初期値固定)
+                
+                # 初期幅の設定
+                view.setColumnWidth(2, 80)
+                view.setColumnWidth(3, 140)
                 
                 view.setFrameStyle(QFrame.NoFrame)
                 view.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
