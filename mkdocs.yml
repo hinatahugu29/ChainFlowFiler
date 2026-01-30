@@ -37,6 +37,7 @@ copyright: Copyright &copy; 2026 Chain Flow Filer Project
 
 # ナビゲーション構造
 nav:
+  - Home: index.md
   - 日本語 (Japanese):
     - はじめに: ja/index.md
     - インストール: ja/installation.md
